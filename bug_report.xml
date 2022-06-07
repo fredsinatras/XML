@@ -1,0 +1,12 @@
+{
+   "telegram_nickname": "@jenya1234567",
+   "bug_id": 1,
+   "title": "Send Email button return options not related to sending Email",
+   "severity": "Minor",
+   "priority": "Low",
+   "environment": "1)Samsung Galaxy S9+,  Android 10",
+   "precondition": "Installed app on the device",
+   "STR": "Open the app,tap 'Send Email' button",
+   "AR": "App return different links not related to sending email",
+   "ER": "App return  links related to sending email"
+}
